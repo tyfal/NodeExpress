@@ -12,9 +12,9 @@
 
 ### Other Links
 
-| Start | Destination | Content |
-|-------|-------------|---------|
-| Home  | Friend Data | JSON    |
-| Home  | Github Repo | Files   |
+| Start        | Destination | Content |
+|--------------|-------------|---------|
+| Home/Survey  | Friend Data | JSON    |
+| Home/Survey  | Github Repo | Files   |
 
 
