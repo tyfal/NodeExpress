@@ -18,4 +18,4 @@
 | Home/Survey  | Github Repo | Files   |
 
 ### References
-* Utilizing standard distributed class front end questions and bootstrap formatting
+* Utilizing standard front end distributed to class for question content and bootstrap formatting
